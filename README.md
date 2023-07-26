@@ -2,6 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Screenshots -:
+
+![image](https://github.com/vikastripathi707/Social-Media-App/assets/86002620/d498ed05-f48b-491c-85fb-30ddb897d938) (Login Page) 
+
+
+![image](https://github.com/vikastripathi707/Social-Media-App/assets/86002620/521f50b7-8590-4a79-9b5d-ffa85b338649)  (Sign Up Page)
+
+
+![image](https://github.com/vikastripathi707/Social-Media-App/assets/86002620/42f93366-1a69-4e18-ba4e-1a9d3464a8e5) (User Profile Page ) 
+
+![image](https://github.com/vikastripathi707/Social-Media-App/assets/86002620/057d33b0-2752-479f-bb81-19a77e03c7a6)  (Upload Post)
+
+![image](https://github.com/vikastripathi707/Social-Media-App/assets/86002620/91d2b9a2-4d33-4ea7-a49a-d7cb267b70a8) (Upload Image)
+
+![image](https://github.com/vikastripathi707/Social-Media-App/assets/86002620/08379b81-6a4c-4e06-aa68-bc89728a0cd7)  (Uploaded Post Section )
+
+![image](https://github.com/vikastripathi707/Social-Media-App/assets/86002620/011684cd-90ac-40b6-b60a-603215aaa2c6)  (Responsivity)
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
